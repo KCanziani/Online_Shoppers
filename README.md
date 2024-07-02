@@ -1,5 +1,7 @@
 # Online shopper intention prediction
 
+Example of code where I did data analysis and applied different Machine Learning algorithms.
+
 Online Shopper Intention Dataset from UCI's Machine Learning Library
 
 ##Data Set Information:
